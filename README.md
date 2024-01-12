@@ -3,7 +3,7 @@ Sample Mobile Automation Test
 Berikut ini hasil dari pengerjaan test automate login mobile dengan contoh aplikasi Smart Residence PRD
 
 > Berikut contoh testcase yang telah dibuat
- terdapat 3 postive case dan 6 negative case
+ terdapat 3 postive case dan 6 negative case.
 > Berikut Report Hasil testing
 https://github.com/hendar-suhendar/BNI-New-Mobile-Sample-Test/files/13914645/20240112_095633.pdf
 
