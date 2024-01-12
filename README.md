@@ -4,8 +4,8 @@ Berikut ini hasil dari pengerjaan test automate login mobile dengan contoh aplik
 
 > Berikut contoh testcase yang telah dibuat
  terdapat 3 postive case dan 6 negative case
-> Berikut Report Hasil testing 
-[20240112_095633.pdf](https://github.com/hendar-suhendar/BNI-New-Mobile-Sample-Test/files/13914645/20240112_095633.pdf)
+> Berikut Report Hasil testing
+https://github.com/hendar-suhendar/BNI-New-Mobile-Sample-Test/files/13914645/20240112_095633.pdf
 
 sebelum dijalankan bersama disini ada 1 case yang saya uncheck, karena memerlukan autorisasi akses automate 
 untuk set default limitasi dan unblock, namun untuk scripting telah saya kerjakan, 
