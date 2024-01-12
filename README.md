@@ -9,7 +9,7 @@ https://github.com/hendar-suhendar/BNI-New-Mobile-Sample-Test/files/13914645/202
 
 sebelum dijalankan bersama disini ada 1 case yang saya uncheck, karena memerlukan autorisasi akses automate 
 untuk set default limitasi dan unblock, namun untuk scripting telah saya kerjakan, 
-hanya pada validasi akhir butuh penyesuaian teks keterangan yang dibuat seperti apa bila akun telah terblokir
+hanya pada validasi akhir butuh penyesuaian teks keterangan yang dibuat seperti apa, bila akun telah terblokir
 
 Setelah diuncheck, Selanjutnya kita coba jalankan :
 
