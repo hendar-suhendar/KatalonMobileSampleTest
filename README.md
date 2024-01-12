@@ -34,7 +34,7 @@ Example mine : "hidden button saat belum melakukan input Nomor HP dan Password"
 
 
 #Sebagai Catatan Masukkan untuk Tester dari hasil pengujian analisa login issue di smart residence PRD :
-Remainder test :
+*Remainder test
 1. Bug Issue
 > Umumnya pekerjaan seorang tester yaitu Saat pembuatan UI/UX tidak sesuai dengan design dan fungsi tidak sesuai dg permintaan ini akan dianggap sebagai BUG issue
 
