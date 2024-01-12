@@ -16,7 +16,7 @@ Setelah diuncheck, Selanjutnya kita coba jalankan :
 1. Jalankan Test suite yang telah dibuat
 2. Bila kita ingin memonitor log tag object saat menjalankan, 
    kita bisa melihat dari log view dan log console atau dari debbuging log console
-2. Lihat hasil report hasil menjalankan, untuk melihat hasil menjalankan test, kita bisa lihat dari rest suite result dan kita lakukan generite 
+2. Lihat hasil report hasil menjalankan, untuk melihat hasil menjalankan test, kita bisa lihat dari test suite result dan kita lakukan generite 
 atau buka pada folder report di katalon 
 
 Catatan Deffect issue :
