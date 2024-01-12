@@ -27,7 +27,7 @@ Example mine : "data ini wajib diisi" atau "no handphone harus diisi"
 3. Memberikan keterangan dg informasi validasi popup yang kurang sesuai dengan penyebuatan Username
 "Username dan Password Anda salah. Silakan ulangi kembali, jika salah lebih 3x, Akun Anda akan diblokir."
 Example mine : "Password yang anda masukkan salah, silakan ulangi kembali. Bila lebih dari 3x kesalahan, Akun Anda akan terblokir."
-4.> Saat tidak mengisi pada Input Nomor HP dan Password lalu pilih button masuk, memberikan notifikasi yang kurang sesuai pada input Nomor HP
+4. Saat tidak mengisi pada Input Nomor HP dan Password lalu pilih button masuk, memberikan notifikasi yang kurang sesuai pada input Nomor HP
 dengan keterangan "username tidak valid"
 Example mine : "hidden button saat belum melakukan input Nomor HP dan Password"
 
