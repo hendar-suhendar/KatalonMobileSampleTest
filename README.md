@@ -30,10 +30,6 @@ Example mine : "Password yang anda masukkan salah, silakan ulangi kembali. Bila 
 dengan keterangan "username tidak valid"
 Example mine : "hidden button saat belum melakukan input Nomor HP dan Password"
 
-Sebagai Catatan untuk katalon :
-Untuk hasil yang maksimal perlunya katalon enterprise seperti untuk bisa menggunakan fungsi pada Mobile dapat 
-memverifikasi dengan gambar yang ditampilkan, menjalankan dengan CI dan masi banyak fungsi - fungsi lainnya.
-Refference : https://docs.katalon.com/docs/katalon-platform/administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/katalon-studio-vs-katalon-studio-enterprise-features
 
 
 #Sebagai Catatan Masukkan untuk Tester dari hasil pengujian analisa login issue di smart residence PRD :
@@ -46,12 +42,3 @@ Remainder test :
   keterangan notifikasi & Validasi dari aplikasi, hal ini akan menjadi bahan seorang Tester Automate untuk
   didiskusikan lebih lanjut ke User/Project Manager, apabila disetujui maka akan diinformasikan perubahan 
   ke designer UI/UX dan Developer, selanjutnya tester akan membuat tiket untuk menaikan status sebagai Bug issue.
-
-So Please, maybe the next time ya . . .
-
-
-Sebagai Catatan untuk katalon :
-Untuk hasil yang maksimal perlunya katalon enterprise seperti untuk bisa menggunakan fungsi pada Mobile dapat 
-memverifikasi dengan gambar yang ditampilkan, menjalankan dengan CI dan masi banyak fungsi - fungsi lainnya.
-Ref. see more detail : https://docs.katalon.com/docs/katalon-platform/administer/katalon-studio-enterprise-and-katalon-runtime-engine-license/katalon-studio-vs-katalon-studio-enterprise-features
-
