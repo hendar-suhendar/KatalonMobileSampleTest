@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi Login Gagal dengan tanpa memasukkan nomor HP</description>
+   <name>TC3_Negative_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>471fd621-76bf-4001-a11f-d779b4331e29</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f33d614-2f4e-4adc-9bbc-4839e3ef067a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a8c78a1b-af55-4fe7-9769-6471c664d6c5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3f33d614-2f4e-4adc-9bbc-4839e3ef067a</id>
+      <masked>false</masked>
+      <name>No_HP</name>
+   </variable>
+   <variable>
+      <defaultValue>'fayhldzrIaSsQrfYdGeSEg=='</defaultValue>
+      <description>Password decrypt : 5uH3nd4r14  | Example using Wrong password : 5uH3nd4r25</description>
+      <id>a8c78a1b-af55-4fe7-9769-6471c664d6c5</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

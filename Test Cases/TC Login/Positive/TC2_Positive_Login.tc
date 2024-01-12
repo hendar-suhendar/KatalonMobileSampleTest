@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi login memilih button lupa Kata Sandi, berhasil menuju halaman lupa kata sandi</description>
+   <name>TC2_Positive_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c01e86ee-286c-4ee8-bf0a-edee63c56d2a</testCaseGuid>
+</TestCaseEntity>

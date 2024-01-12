@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'BTN Smart Residence_1.7.0.apk'</initValue>
+      <name>Apk_File</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'id.co.btn.smartresidence'</initValue>
+      <name>AppID</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

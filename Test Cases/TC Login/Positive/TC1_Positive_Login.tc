@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi Login berhasil dengan memasukkan Nomor HP dan Kata Sandi yang sesuai</description>
+   <name>TC1_Positive_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa4cc6bd-e9e0-42c2-beb4-625d5a43bec5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f33d614-2f4e-4adc-9bbc-4839e3ef067a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a8c78a1b-af55-4fe7-9769-6471c664d6c5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>12a1dec7-c21d-4b4b-a897-16ce7e5255bf</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'085899472243'</defaultValue>
+      <description></description>
+      <id>3f33d614-2f4e-4adc-9bbc-4839e3ef067a</id>
+      <masked>false</masked>
+      <name>No_HP</name>
+   </variable>
+   <variable>
+      <defaultValue>'fayhldzrIaRwwK5rSYKvPg=='</defaultValue>
+      <description>Password decrypt : 5uH3nd4r14</description>
+      <id>a8c78a1b-af55-4fe7-9769-6471c664d6c5</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Suhendar'</defaultValue>
+      <description></description>
+      <id>12a1dec7-c21d-4b4b-a897-16ce7e5255bf</id>
+      <masked>false</masked>
+      <name>Nama_pengguna</name>
+   </variable>
+</TestCaseEntity>

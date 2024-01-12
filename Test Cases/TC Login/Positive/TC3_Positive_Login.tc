@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi login memilih button daftar akun, berhasil menuju halaman daftar akun</description>
+   <name>TC3_Positive_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3432c8c4-7ec2-4103-8c71-331250d04cab</testCaseGuid>
+</TestCaseEntity>
