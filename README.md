@@ -27,19 +27,6 @@ Example mine : "data ini wajib diisi" atau "no handphone harus diisi"
 3. Memberikan keterangan dg informasi validasi popup yang kurang sesuai dengan penyebuatan Username
 "Username dan Password Anda salah. Silakan ulangi kembali, jika salah lebih 3x, Akun Anda akan diblokir."
 Example mine : "Password yang anda masukkan salah, silakan ulangi kembali. Bila lebih dari 3x kesalahan, Akun Anda akan terblokir."
-4. Saat tidak mengisi pada Input Nomor HP dan Password lalu pilih button masuk, memberikan notifikasi yang kurang sesuai pada input Nomor HP
+4. Saat tidak mengisi Input Nomor HP dan Password lalu pilih button masuk, memberikan notifikasi yang kurang sesuai pada input Nomor HP
 dengan keterangan "username tidak valid"
 Example mine : "hidden button saat belum melakukan input Nomor HP dan Password"
-
-
-
-#Sebagai Catatan Masukkan untuk Tester dari hasil pengujian analisa login issue di smart residence PRD :
-*Remainder test
-1. Bug Issue
-> Umumnya pekerjaan seorang tester yaitu Saat pembuatan UI/UX tidak sesuai dengan design dan fungsi tidak sesuai dg permintaan ini akan dianggap sebagai BUG issue
-
-2. Deffect Issue
-> Saat melakukan pengujian, tester akan menganalisa dari pembuatan UI/UX design, apabila terdapat kejanggalan dari fungsi logic aplikasi,
-  keterangan notifikasi & Validasi dari aplikasi, hal ini akan menjadi bahan seorang Tester Automate untuk
-  didiskusikan lebih lanjut ke User/Project Manager, apabila disetujui maka akan diinformasikan perubahan 
-  ke designer UI/UX dan Developer, selanjutnya tester akan membuat tiket untuk menaikan status sebagai Bug issue.
