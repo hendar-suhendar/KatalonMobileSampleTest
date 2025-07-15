@@ -1,7 +1,7 @@
 # Katalon Mobile Sample Test
 Sample Mobile Automation Test
 
-Berikut ini hasil dari pengerjaan test automate login mobile dengan contoh aplikasi Smart Residence PRD
+Berikut ini hasil dari pengerjaan test automate login mobile dengan contoh aplikasi Smart Residence
 
 > Berikut contoh testcase yang telah dibuat
  terdapat 3 postive case dan 6 negative case.
