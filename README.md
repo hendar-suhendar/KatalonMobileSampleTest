@@ -1,4 +1,4 @@
-# Sampe-Mobile-Test
+# Katalon Mobile Sample Test
 Sample Mobile Automation Test
 
 Berikut ini hasil dari pengerjaan test automate login mobile dengan contoh aplikasi Smart Residence PRD
