@@ -20,7 +20,7 @@ Setelah diuncheck, Selanjutnya kita coba jalankan :
 2. Lihat hasil report hasil menjalankan, untuk melihat hasil menjalankan test, kita bisa lihat dari test suite result dan kita lakukan generite 
 atau buka pada folder report di katalon 
 
-Catatan Deffect issue :
+Catatan Deffect/Bug issue :
 1. Input dengan nomor HP dengan kode negara +62 tidak dikenali atau akan tetap dianggap tidak ditemukan
 2.  Saat tidak memasukkan nomor HP dan mengisi password akan memberikan notifikasi yang tidak sesuai dengan keterangan
 "username tidak valid"
